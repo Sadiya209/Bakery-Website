@@ -1,0 +1,1 @@
+A lightweight HTML/CSS landing page for cake shops and bakeries. Features an elegant hero section with cake imagery, soft color palette, and responsive design. Quick to deploy and easy to edit for menus, offers, or contact info.
